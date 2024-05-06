@@ -1,0 +1,38 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.inicio{
+  width: 100%;
+  text-align: center;
+  margin: auto;
+  background-color:rgb(230, 248, 218);
+}
+
+.card{
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+  background-color: rgb(245, 230, 230);
+  border-radius: 30px;
+}
+
+.inicio2{
+  display: flex;
+}
+
+.artistas{
+  background-color :rgb(198, 198, 247);
+  border-radius: 30px;
+}
+
+.inicio1{
+  background-color: rgb(198, 198, 247);
+}
+
+.genero{
+  width: 10pc;
+  margin-left: 50px;
+  background-color: rgb(198, 198, 247);
+  border-radius: 30px;
+}
