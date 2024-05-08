@@ -15,11 +15,11 @@ const SearchBar = ({ setSearchTerm }) => {
 
   return (
     <form onSubmit={handleSubmit}>
-      <input 
-        type = "text" 
-        value = {inputValue} 
-        onChange = {handleChange} 
-        placeholder = "Buscar artista..." 
+      <input
+        type="text"
+        value={inputValue}
+        onChange={handleChange}
+        placeholder="Buscar artista..."
       />
       <button type="submit"> Buscar </button>
     </form>
